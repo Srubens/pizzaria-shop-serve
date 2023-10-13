@@ -1,0 +1,135 @@
+{
+    "produtos":[
+      {
+        "id":1,
+        "categoria":"Pizza",
+        "titulo":"Pizza 4 queijos",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":38.0,
+        "destaque":true,
+        "img":[
+          {"url":"https://raw.githubusercontent.com/Srubens/pizzaria-shop/main/src/assets/pizza-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-3.png"}
+        ]
+      },
+      {
+        "id":2,
+        "categoria":"Pizza",
+        "titulo":"Pizza de Bacon",
+        "desc":"Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":36.0,
+        "destaque":true,
+        "img":[
+          {"url":"https://raw.githubusercontent.com/Srubens/pizzaria-shop/main/src/assets/pizza-2.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-3.png"}
+        ]
+      },
+      {
+        "id":3,
+        "categoria": "Pizza",
+        "titulo": "Pizza de Frango",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":37.0,
+        "destaque":true,
+        "img":[
+          {"url":"https://raw.githubusercontent.com/Srubens/pizzaria-shop/main/src/assets/pizza-3.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"}
+        ]
+      },
+      {
+        "id":4,
+        "categoria": "Pizza",
+        "titulo": "Pizza de Calabrasa",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":39.0,
+        "destaque":true,
+        "img":[
+          {"url":"https://raw.githubusercontent.com/Srubens/pizzaria-shop/main/src/assets/pizza-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"}
+        ]
+      },
+      {
+        "id":5,
+        "categoria": "Bebidas",
+        "titulo": "Bebida 1",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":12.0,
+        "destaque":true,
+        "img":[
+          {"url":"https://raw.githubusercontent.com/Srubens/pizzaria-shop/main/src/assets/refrigerante-1-5.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"}
+        ]
+      },
+      {
+        "id":6,
+        "categoria": "Bebidas",
+        "titulo": "Bebida 2",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":10.0,
+        "destaque":true,
+        "img":[
+          {"url":"https://raw.githubusercontent.com/Srubens/pizzaria-shop/main/src/assets/refrigerante-1-5.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"}
+        ]
+      },
+      {
+        "id":7,
+        "categoria": "Bebidas",
+        "titulo": "Bebida 3",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":10.0,
+        "destaque":true,
+        "img":[
+          {"url":"https://raw.githubusercontent.com/Srubens/pizzaria-shop/main/src/assets/refrigerante-1-5.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"}
+        ]
+      },
+      {
+        "id":8.0,
+        "categoria": "Doces",
+        "titulo": "Doce 1",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":8.50,
+        "destaque":true,
+        "img":[
+          {"url":"https://raw.githubusercontent.com/Srubens/pizzaria-shop/main/src/assets/hut-cup-brigadeiro.jpg"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"}
+        ]
+      },
+      {
+        "id":9.0,
+        "categoria": "Doces",
+        "titulo": "Doce 2",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":6.00,
+        "destaque":true,
+        "img":[
+          {"url":"https://raw.githubusercontent.com/Srubens/pizzaria-shop/main/src/assets/hut-cup-brigadeiro.jpg"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"}
+        ]
+      },
+      {
+        "id":10.0,
+        "categoria": "Doces",
+        "titulo": "Doce 3",
+        "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+        "valor":14.0,
+        "destaque":true,
+        "img":[
+          {"url":"https://raw.githubusercontent.com/Srubens/pizzaria-shop/main/src/assets/hut-cup-brigadeiro.jpg"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-1.png"},
+          {"url":"https://raw.githubusercontent.com/Srubens/paladaria-app/main/src/assets/produto-2.png"}
+        ]
+      }
+    ]
+  }
+  
