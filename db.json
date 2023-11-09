@@ -42,7 +42,7 @@
       {
         "id":4,
         "categoria": "Pizza",
-        "titulo": "Pizza de Calabrasa",
+        "titulo": "Pizza de Calabresa",
         "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
         "valor":39.0,
         "destaque":true,
